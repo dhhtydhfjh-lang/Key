@@ -1,51 +1,14 @@
 [
-  {
-    "id": "6b57e5ac71937271",
-    "username": "8090",
-    "password": "8090",
-    "expiresAt": "2026-06-05",
-    "allowOffline": false
-  },
-{
-    "id": "79197dc1d9f7d2af",
-    "username": "AshokB",
-    "password": "123",
-    "expiresAt": "2026-06-09",
-    "allowOffline": false
-  },
-  {
-    "id": "2d9b5fa4ddb3e587",
-    "username": "Golu",
-    "password": "123",
-    "expiresAt": "2026-06-09",
-    "allowOffline": false
-  },
     {
-    "id": "90715e046e4d1309",
-    "username": "Vicky",
-    "password": "123",
-    "expiresAt": "2026-06-09",
-    "allowOffline": false
-  },
-  {
-    "id": "007197c8c0483ca5",
-    "username": "Rajeeb",
-    "password": "12345",
-    "expiresAt": "2026-05-12",
-    "allowOffline": false
-  },
-  {
-    "id": "ab387f94868cb21a",
-    "username": "SunilM",
-    "password": "123",
-    "expiresAt": "2026-05-21",
-    "allowOffline": false 
-  },
-  {
-    "id": "0a99deff25d8edaf",
-    "username": "anmol",
-    "password": "12345",
-    "expiresAt": "2027-02-02",
-    "allowOffline": false
-  },
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
 ]
